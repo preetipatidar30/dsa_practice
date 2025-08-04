@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/preetipatidar30/dsa_practice/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/preetipatidar30/dsa_practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/preetipatidar30/dsa_practice/tree/master/0118-pascals-triangle) |
+| [0940-fruit-into-baskets](https://github.com/preetipatidar30/dsa_practice/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/preetipatidar30/dsa_practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
 ## Divide and Conquer
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/preetipatidar30/dsa_practice/tree/master/0940-fruit-into-baskets) |
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
 ## Binary Search
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0940-fruit-into-baskets](https://github.com/preetipatidar30/dsa_practice/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/preetipatidar30/dsa_practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Prefix Sum
 |  |
