@@ -5,16 +5,17 @@ public:
      
         vector<int> ans(n);
       
-       ans[0]=1;
-       for(int i=1;i<n;i++){
-        ans[i]=ans[i-1]*nums[i-1];
+       int pre=1;
+       for(int i=0;i<n;i++){
+        ans[i]=pre;
+        pre*=nums[i];
        }
        int suff=1;
 
-       for(int i=n-2;i>=0;i-- ){
-       int a=ans[i]*nums[i+1]*suff;
+       for(int i=n-1;i>=0;i-- ){
+       int a=ans[i]*suff;
         ans[i]=a;
-        suff*=nums[i+1];
+        suff*=nums[i];
        }
      
         
