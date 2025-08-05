@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/preetipatidar30/dsa_practice/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/preetipatidar30/dsa_practice/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/preetipatidar30/dsa_practice/tree/master/0238-product-of-array-except-self) |
+| [0287-find-the-duplicate-number](https://github.com/preetipatidar30/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/preetipatidar30/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/preetipatidar30/dsa_practice/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/preetipatidar30/dsa_practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/preetipatidar30/dsa_practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/preetipatidar30/dsa_practice/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/preetipatidar30/dsa_practice/tree/master/0075-sort-colors) |
+| [0287-find-the-duplicate-number](https://github.com/preetipatidar30/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
 | ------- |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/preetipatidar30/dsa_practice/tree/master/0074-search-a-2d-matrix) |
+| [0287-find-the-duplicate-number](https://github.com/preetipatidar30/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/preetipatidar30/dsa_practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 ## Matrix
 |  |
@@ -84,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/preetipatidar30/dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/preetipatidar30/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
