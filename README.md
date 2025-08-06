@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/preetipatidar30/dsa_practice/tree/master/0118-pascals-triangle) |
 | [0238-product-of-array-except-self](https://github.com/preetipatidar30/dsa_practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/preetipatidar30/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/preetipatidar30/dsa_practice/tree/master/0493-reverse-pairs) |
 | [0560-subarray-sum-equals-k](https://github.com/preetipatidar30/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0940-fruit-into-baskets](https://github.com/preetipatidar30/dsa_practice/tree/master/0940-fruit-into-baskets) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/preetipatidar30/dsa_practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/preetipatidar30/dsa_practice/tree/master/0053-maximum-subarray) |
+| [0493-reverse-pairs](https://github.com/preetipatidar30/dsa_practice/tree/master/0493-reverse-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/preetipatidar30/dsa_practice/tree/master/0074-search-a-2d-matrix) |
 | [0287-find-the-duplicate-number](https://github.com/preetipatidar30/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+| [0493-reverse-pairs](https://github.com/preetipatidar30/dsa_practice/tree/master/0493-reverse-pairs) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/preetipatidar30/dsa_practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [3790-fruits-into-baskets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/preetipatidar30/dsa_practice/tree/master/3791-fruits-into-baskets-iii) |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Segment Tree
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/preetipatidar30/dsa_practice/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/preetipatidar30/dsa_practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
@@ -110,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Ordered Set
 |  |
 | ------- |
+| [0493-reverse-pairs](https://github.com/preetipatidar30/dsa_practice/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/preetipatidar30/dsa_practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Stack
@@ -120,4 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/preetipatidar30/dsa_practice/tree/master/0042-trapping-rain-water) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/preetipatidar30/dsa_practice/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/preetipatidar30/dsa_practice/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
