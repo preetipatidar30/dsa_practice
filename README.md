@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/preetipatidar30/dsa_practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/preetipatidar30/dsa_practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/preetipatidar30/dsa_practice/tree/master/0326-power-of-three) |
 | [0826-soup-servings](https://github.com/preetipatidar30/dsa_practice/tree/master/0826-soup-servings) |
 | [0900-reordered-power-of-2](https://github.com/preetipatidar30/dsa_practice/tree/master/0900-reordered-power-of-2) |
 ## Recursion
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/preetipatidar30/dsa_practice/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/preetipatidar30/dsa_practice/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/preetipatidar30/dsa_practice/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
