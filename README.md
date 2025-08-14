@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/preetipatidar30/dsa_practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/preetipatidar30/dsa_practice/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/preetipatidar30/dsa_practice/tree/master/0242-valid-anagram) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
 |  |
 | ------- |
