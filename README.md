@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2432-number-of-zero-filled-subarrays](https://github.com/preetipatidar30/dsa_practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/preetipatidar30/dsa_practice/tree/master/2529-range-product-queries-of-powers) |
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/preetipatidar30/dsa_practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Divide and Conquer
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/preetipatidar30/dsa_practice/tree/master/0074-search-a-2d-matrix) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0900-reordered-power-of-2](https://github.com/preetipatidar30/dsa_practice/tree/master/0900-reordered-power-of-2) |
+| [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 ## Trie
 |  |
 | ------- |
