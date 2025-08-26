@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/preetipatidar30/dsa_practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/preetipatidar30/dsa_practice/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/preetipatidar30/dsa_practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/preetipatidar30/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 ## Greedy
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/preetipatidar30/dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/preetipatidar30/dsa_practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/preetipatidar30/dsa_practice/tree/master/0125-valid-palindrome) |
+| [0151-reverse-words-in-a-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/preetipatidar30/dsa_practice/tree/master/0242-valid-anagram) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
