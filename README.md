@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/preetipatidar30/dsa_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/preetipatidar30/dsa_practice/tree/master/0287-find-the-duplicate-number) |
+| [0567-permutation-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0567-permutation-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/preetipatidar30/dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/preetipatidar30/dsa_practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/preetipatidar30/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0567-permutation-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/preetipatidar30/dsa_practice/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/preetipatidar30/dsa_practice/tree/master/0940-fruit-into-baskets) |
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/preetipatidar30/dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0867-new-21-game](https://github.com/preetipatidar30/dsa_practice/tree/master/0867-new-21-game) |
 | [0940-fruit-into-baskets](https://github.com/preetipatidar30/dsa_practice/tree/master/0940-fruit-into-baskets) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/preetipatidar30/dsa_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/preetipatidar30/dsa_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/preetipatidar30/dsa_practice/tree/master/0242-valid-anagram) |
+| [0567-permutation-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0567-permutation-in-string) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/preetipatidar30/dsa_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
