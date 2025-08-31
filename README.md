@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/preetipatidar30/dsa_practice/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/preetipatidar30/dsa_practice/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/preetipatidar30/dsa_practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/preetipatidar30/dsa_practice/tree/master/0118-pascals-triangle) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/preetipatidar30/dsa_practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/preetipatidar30/dsa_practice/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/preetipatidar30/dsa_practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/preetipatidar30/dsa_practice/tree/master/0042-trapping-rain-water) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/preetipatidar30/dsa_practice/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/preetipatidar30/dsa_practice/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/preetipatidar30/dsa_practice/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/preetipatidar30/dsa_practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0151-reverse-words-in-a-string) |
