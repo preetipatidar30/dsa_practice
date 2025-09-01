@@ -1,36 +1,42 @@
 class Solution {
 public:
-    // Helper function to expand around center and return length of palindrome
-    int expandAroundCenter(string& s, int left, int right) {
-        while (left >= 0 && right < s.size() && s[left] == s[right]) {
-            left--;
-            right++;
-        }
-        // Length of palindrome = right - left - 1
-        return right - left - 1;
-    }
-    
-    string longestPalindrome(string s) {
+       string longestPalindrome(string s) {
+        if (s.empty()) return "";
+        
         int n = s.size();
-        if (n == 0) return "";
+        int start = 0, maxLength = 1; // Initialize to return at least one character
         
-        int start = 0; // Start index of longest palindrome
-        int maxLen = 1; // Length of longest palindrome (at least 1 for single char)
+        // Helper function to expand around center
+        auto expandAroundCenter = [&](int left, int right) {
+            while (left >= 0 && right < n && s[left] == s[right]) {
+                left--;
+                right++;
+            }
+            // Return length and start index of palindrome
+            int len = right - left - 1;
+            return pair<int, int>{len, left + 1};
+        };
         
+        // Check all possible centers
         for (int i = 0; i < n; i++) {
-            // Check for odd-length palindromes (center at i)
-            int len1 = expandAroundCenter(s, i, i);
-            // Check for even-length palindromes (center between i and i+1)
-            int len2 = expandAroundCenter(s, i, i + 1);
+            // Odd-length palindrome (center at i)
+            auto [len1, start1] = expandAroundCenter(i, i);
+            if (len1 > maxLength) {
+                maxLength = len1;
+                start = start1;
+            }
             
-            // Update if we find a longer palindrome
-            int len = max(len1, len2);
-            if (len > maxLen) {
-                maxLen = len;
-                start = i - (len - 1) / 2; // Calculate start index
+            // Even-length palindrome (center between i and i+1)
+            if (i < n - 1) {
+                auto [len2, start2] = expandAroundCenter(i, i + 1);
+                if (len2 > maxLength) {
+                    maxLength = len2;
+                    start = start2;
+                }
             }
         }
         
-        return s.substr(start, maxLen);
+        return s.substr(start, maxLength);
+       
     }
 };
