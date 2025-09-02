@@ -26,6 +26,7 @@ if(target==0){
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) { 
      vector<int>comb;
      vector<vector<int>> ans;
+     sort(candidates.begin(), candidates.end());
      
     helper(candidates,0,comb,ans,target);
     return ans;
