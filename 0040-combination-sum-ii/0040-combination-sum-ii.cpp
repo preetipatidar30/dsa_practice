@@ -5,7 +5,12 @@ set<vector<int> >s;
 void helper(vector<int>&candidates,int i,vector<int>& comb,vector<vector<int>>&ans,int target){
     int n=candidates.size();
       if (target == 0) {
-            ans.push_back(comb);
+        if(s.find(comb)==s.end()){
+                ans.push_back(comb);
+                s.insert(comb);
+
+        }
+        
             return;
         }
     if(i==n ||target<0){
