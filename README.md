@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/preetipatidar30/dsa_practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/preetipatidar30/dsa_practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/preetipatidar30/dsa_practice/tree/master/2529-range-product-queries-of-powers) |
+| [2662-check-knight-tour-configuration](https://github.com/preetipatidar30/dsa_practice/tree/master/2662-check-knight-tour-configuration) |
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/preetipatidar30/dsa_practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/preetipatidar30/dsa_practice/tree/master/0074-search-a-2d-matrix) |
 | [0498-diagonal-traverse](https://github.com/preetipatidar30/dsa_practice/tree/master/0498-diagonal-traverse) |
+| [2662-check-knight-tour-configuration](https://github.com/preetipatidar30/dsa_practice/tree/master/2662-check-knight-tour-configuration) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/preetipatidar30/dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Sliding Window
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/preetipatidar30/dsa_practice/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/preetipatidar30/dsa_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2662-check-knight-tour-configuration](https://github.com/preetipatidar30/dsa_practice/tree/master/2662-check-knight-tour-configuration) |
 | [3790-fruits-into-baskets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
 |  |
@@ -243,4 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1917-maximum-average-pass-ratio](https://github.com/preetipatidar30/dsa_practice/tree/master/1917-maximum-average-pass-ratio) |
+## Depth-First Search
+|  |
+| ------- |
+| [2662-check-knight-tour-configuration](https://github.com/preetipatidar30/dsa_practice/tree/master/2662-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2662-check-knight-tour-configuration](https://github.com/preetipatidar30/dsa_practice/tree/master/2662-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
