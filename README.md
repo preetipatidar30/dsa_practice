@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/preetipatidar30/dsa_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/preetipatidar30/dsa_practice/tree/master/0042-trapping-rain-water) |
+| [0051-n-queens](https://github.com/preetipatidar30/dsa_practice/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/preetipatidar30/dsa_practice/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/preetipatidar30/dsa_practice/tree/master/0056-merge-intervals) |
 | [0074-search-a-2d-matrix](https://github.com/preetipatidar30/dsa_practice/tree/master/0074-search-a-2d-matrix) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/preetipatidar30/dsa_practice/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/0040-combination-sum-ii) |
+| [0051-n-queens](https://github.com/preetipatidar30/dsa_practice/tree/master/0051-n-queens) |
 | [0131-palindrome-partitioning](https://github.com/preetipatidar30/dsa_practice/tree/master/0131-palindrome-partitioning) |
 | [0679-24-game](https://github.com/preetipatidar30/dsa_practice/tree/master/0679-24-game) |
 ## Heap (Priority Queue)
