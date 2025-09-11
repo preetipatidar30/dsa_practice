@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1161-project-employees-i](https://github.com/preetipatidar30/dsa_practice/tree/master/1161-project-employees-i) |
 | [1258-article-views-i](https://github.com/preetipatidar30/dsa_practice/tree/master/1258-article-views-i) |
 | [1390-average-selling-price](https://github.com/preetipatidar30/dsa_practice/tree/master/1390-average-selling-price) |
+| [1773-percentage-of-users-attended-a-contest](https://github.com/preetipatidar30/dsa_practice/tree/master/1773-percentage-of-users-attended-a-contest) |
 | [1827-invalid-tweets](https://github.com/preetipatidar30/dsa_practice/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/preetipatidar30/dsa_practice/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
