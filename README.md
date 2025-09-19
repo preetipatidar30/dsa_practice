@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/preetipatidar30/dsa_practice/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/preetipatidar30/dsa_practice/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/preetipatidar30/dsa_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/preetipatidar30/dsa_practice/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/preetipatidar30/dsa_practice/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/preetipatidar30/dsa_practice/tree/master/0075-sort-colors) |
@@ -335,4 +336,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1543-simplified-fractions](https://github.com/preetipatidar30/dsa_practice/tree/master/1543-simplified-fractions) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/preetipatidar30/dsa_practice/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
