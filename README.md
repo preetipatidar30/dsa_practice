@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/preetipatidar30/dsa_practice/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/preetipatidar30/dsa_practice/tree/master/0900-reordered-power-of-2) |
 | [1448-maximum-69-number](https://github.com/preetipatidar30/dsa_practice/tree/master/1448-maximum-69-number) |
+| [1543-simplified-fractions](https://github.com/preetipatidar30/dsa_practice/tree/master/1543-simplified-fractions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/preetipatidar30/dsa_practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/preetipatidar30/dsa_practice/tree/master/3279-alice-and-bob-playing-flower-game) |
 ## Recursion
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/preetipatidar30/dsa_practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0567-permutation-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/preetipatidar30/dsa_practice/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1543-simplified-fractions](https://github.com/preetipatidar30/dsa_practice/tree/master/1543-simplified-fractions) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/preetipatidar30/dsa_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 ## Bit Manipulation
@@ -325,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-count-salary-categories](https://github.com/preetipatidar30/dsa_practice/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/preetipatidar30/dsa_practice/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/preetipatidar30/dsa_practice/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Number Theory
+|  |
+| ------- |
+| [1543-simplified-fractions](https://github.com/preetipatidar30/dsa_practice/tree/master/1543-simplified-fractions) |
 <!---LeetCode Topics End-->
