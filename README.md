@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/preetipatidar30/dsa_practice/tree/master/0498-diagonal-traverse) |
 | [0540-single-element-in-a-sorted-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/preetipatidar30/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
+| [0646-maximum-length-of-pair-chain](https://github.com/preetipatidar30/dsa_practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0679-24-game](https://github.com/preetipatidar30/dsa_practice/tree/master/0679-24-game) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/preetipatidar30/dsa_practice/tree/master/0940-fruit-into-baskets) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/preetipatidar30/dsa_practice/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/preetipatidar30/dsa_practice/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/preetipatidar30/dsa_practice/tree/master/0131-palindrome-partitioning) |
+| [0646-maximum-length-of-pair-chain](https://github.com/preetipatidar30/dsa_practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0826-soup-servings](https://github.com/preetipatidar30/dsa_practice/tree/master/0826-soup-servings) |
 | [0867-new-21-game](https://github.com/preetipatidar30/dsa_practice/tree/master/0867-new-21-game) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/preetipatidar30/dsa_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/preetipatidar30/dsa_practice/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/preetipatidar30/dsa_practice/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/preetipatidar30/dsa_practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [1448-maximum-69-number](https://github.com/preetipatidar30/dsa_practice/tree/master/1448-maximum-69-number) |
 | [1917-maximum-average-pass-ratio](https://github.com/preetipatidar30/dsa_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
@@ -120,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/preetipatidar30/dsa_practice/tree/master/0242-valid-anagram) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/preetipatidar30/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0455-assign-cookies](https://github.com/preetipatidar30/dsa_practice/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/preetipatidar30/dsa_practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0900-reordered-power-of-2](https://github.com/preetipatidar30/dsa_practice/tree/master/0900-reordered-power-of-2) |
 | [0948-sort-an-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0948-sort-an-array) |
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
