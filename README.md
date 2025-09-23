@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/preetipatidar30/dsa_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/preetipatidar30/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/preetipatidar30/dsa_practice/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/preetipatidar30/dsa_practice/tree/master/0242-valid-anagram) |
 | [0560-subarray-sum-equals-k](https://github.com/preetipatidar30/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0567-permutation-in-string) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/preetipatidar30/dsa_practice/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/preetipatidar30/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/preetipatidar30/dsa_practice/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/preetipatidar30/dsa_practice/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/preetipatidar30/dsa_practice/tree/master/0234-palindrome-linked-list) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/preetipatidar30/dsa_practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -375,5 +377,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/preetipatidar30/dsa_practice/tree/master/0146-lru-cache) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/preetipatidar30/dsa_practice/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/preetipatidar30/dsa_practice/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
