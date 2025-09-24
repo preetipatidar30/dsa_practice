@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/preetipatidar30/dsa_practice/tree/master/0146-lru-cache) |
 | [0242-valid-anagram](https://github.com/preetipatidar30/dsa_practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/preetipatidar30/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/preetipatidar30/dsa_practice/tree/master/0900-reordered-power-of-2) |
@@ -208,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/preetipatidar30/dsa_practice/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/preetipatidar30/dsa_practice/tree/master/0242-valid-anagram) |
+| [0387-first-unique-character-in-a-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/preetipatidar30/dsa_practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0567-permutation-in-string) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/preetipatidar30/dsa_practice/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0900-reordered-power-of-2](https://github.com/preetipatidar30/dsa_practice/tree/master/0900-reordered-power-of-2) |
 ## Enumeration
 |  |
@@ -394,4 +397,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/preetipatidar30/dsa_practice/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/preetipatidar30/dsa_practice/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
