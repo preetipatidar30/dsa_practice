@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1543-simplified-fractions](https://github.com/preetipatidar30/dsa_practice/tree/master/1543-simplified-fractions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/preetipatidar30/dsa_practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/preetipatidar30/dsa_practice/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/preetipatidar30/dsa_practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Recursion
 |  |
 | ------- |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/preetipatidar30/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/preetipatidar30/dsa_practice/tree/master/0342-power-of-four) |
 | [2529-range-product-queries-of-powers](https://github.com/preetipatidar30/dsa_practice/tree/master/2529-range-product-queries-of-powers) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/preetipatidar30/dsa_practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Segment Tree
 |  |
 | ------- |
