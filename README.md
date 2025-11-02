@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/preetipatidar30/dsa_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1917-maximum-average-pass-ratio](https://github.com/preetipatidar30/dsa_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/preetipatidar30/dsa_practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/preetipatidar30/dsa_practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/preetipatidar30/dsa_practice/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2529-range-product-queries-of-powers](https://github.com/preetipatidar30/dsa_practice/tree/master/2529-range-product-queries-of-powers) |
 | [2662-check-knight-tour-configuration](https://github.com/preetipatidar30/dsa_practice/tree/master/2662-check-knight-tour-configuration) |
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/preetipatidar30/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0498-diagonal-traverse](https://github.com/preetipatidar30/dsa_practice/tree/master/0498-diagonal-traverse) |
 | [0733-flood-fill](https://github.com/preetipatidar30/dsa_practice/tree/master/0733-flood-fill) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/preetipatidar30/dsa_practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/preetipatidar30/dsa_practice/tree/master/2662-check-knight-tour-configuration) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3748-sort-matrix-by-diagonals](https://github.com/preetipatidar30/dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0498-diagonal-traverse](https://github.com/preetipatidar30/dsa_practice/tree/master/0498-diagonal-traverse) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/preetipatidar30/dsa_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2343-count-unguarded-cells-in-the-grid](https://github.com/preetipatidar30/dsa_practice/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2662-check-knight-tour-configuration](https://github.com/preetipatidar30/dsa_practice/tree/master/2662-check-knight-tour-configuration) |
 | [3790-fruits-into-baskets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 ## Ordered Set
