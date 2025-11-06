@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/preetipatidar30/dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/preetipatidar30/dsa_practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/preetipatidar30/dsa_practice/tree/master/3863-power-grid-maintenance) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/preetipatidar30/dsa_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/preetipatidar30/dsa_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/preetipatidar30/dsa_practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/preetipatidar30/dsa_practice/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
 | ------- |
@@ -264,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/preetipatidar30/dsa_practice/tree/master/0493-reverse-pairs) |
 | [3790-fruits-into-baskets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/preetipatidar30/dsa_practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3863-power-grid-maintenance](https://github.com/preetipatidar30/dsa_practice/tree/master/3863-power-grid-maintenance) |
 ## Stack
 |  |
 | ------- |
@@ -331,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0948-sort-an-array) |
 | [1917-maximum-average-pass-ratio](https://github.com/preetipatidar30/dsa_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/preetipatidar30/dsa_practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3863-power-grid-maintenance](https://github.com/preetipatidar30/dsa_practice/tree/master/3863-power-grid-maintenance) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -351,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/preetipatidar30/dsa_practice/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/preetipatidar30/dsa_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/preetipatidar30/dsa_practice/tree/master/2662-check-knight-tour-configuration) |
+| [3863-power-grid-maintenance](https://github.com/preetipatidar30/dsa_practice/tree/master/3863-power-grid-maintenance) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -363,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0799-minimum-distance-between-bst-nodes](https://github.com/preetipatidar30/dsa_practice/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/preetipatidar30/dsa_practice/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2662-check-knight-tour-configuration](https://github.com/preetipatidar30/dsa_practice/tree/master/2662-check-knight-tour-configuration) |
+| [3863-power-grid-maintenance](https://github.com/preetipatidar30/dsa_practice/tree/master/3863-power-grid-maintenance) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -512,4 +518,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/preetipatidar30/dsa_practice/tree/master/0173-binary-search-tree-iterator) |
+## Union Find
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/preetipatidar30/dsa_practice/tree/master/3863-power-grid-maintenance) |
+## Graph
+|  |
+| ------- |
+| [3863-power-grid-maintenance](https://github.com/preetipatidar30/dsa_practice/tree/master/3863-power-grid-maintenance) |
 <!---LeetCode Topics End-->
