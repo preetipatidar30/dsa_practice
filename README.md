@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/preetipatidar30/dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/preetipatidar30/dsa_practice/tree/master/3791-fruits-into-baskets-iii) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/preetipatidar30/dsa_practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/preetipatidar30/dsa_practice/tree/master/3863-power-grid-maintenance) |
 ## Divide and Conquer
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/preetipatidar30/dsa_practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1917-maximum-average-pass-ratio](https://github.com/preetipatidar30/dsa_practice/tree/master/1917-maximum-average-pass-ratio) |
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/preetipatidar30/dsa_practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/preetipatidar30/dsa_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/preetipatidar30/dsa_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/preetipatidar30/dsa_practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/preetipatidar30/dsa_practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/preetipatidar30/dsa_practice/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
 |  |
@@ -284,12 +287,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/preetipatidar30/dsa_practice/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/preetipatidar30/dsa_practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/preetipatidar30/dsa_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/preetipatidar30/dsa_practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/preetipatidar30/dsa_practice/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/preetipatidar30/dsa_practice/tree/master/0084-largest-rectangle-in-histogram) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/preetipatidar30/dsa_practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/preetipatidar30/dsa_practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Binary Indexed Tree
 |  |
 | ------- |
