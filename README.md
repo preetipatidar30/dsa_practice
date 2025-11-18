@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/preetipatidar30/dsa_practice/tree/master/0560-subarray-sum-equals-k) |
 | [0646-maximum-length-of-pair-chain](https://github.com/preetipatidar30/dsa_practice/tree/master/0646-maximum-length-of-pair-chain) |
 | [0679-24-game](https://github.com/preetipatidar30/dsa_practice/tree/master/0679-24-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/preetipatidar30/dsa_practice/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0733-flood-fill](https://github.com/preetipatidar30/dsa_practice/tree/master/0733-flood-fill) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/preetipatidar30/dsa_practice/tree/master/0940-fruit-into-baskets) |
