@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/preetipatidar30/dsa_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/preetipatidar30/dsa_practice/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/preetipatidar30/dsa_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/preetipatidar30/dsa_practice/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/preetipatidar30/dsa_practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/preetipatidar30/dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
 | [3790-fruits-into-baskets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0948-sort-an-array) |
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
 | [3531-count-covered-buildings](https://github.com/preetipatidar30/dsa_practice/tree/master/3531-count-covered-buildings) |
+| [3606-coupon-code-validator](https://github.com/preetipatidar30/dsa_practice/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/preetipatidar30/dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
 ## Hash Table
 |  |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/preetipatidar30/dsa_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/preetipatidar30/dsa_practice/tree/master/3531-count-covered-buildings) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/preetipatidar30/dsa_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3606-coupon-code-validator](https://github.com/preetipatidar30/dsa_practice/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/preetipatidar30/dsa_practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/preetipatidar30/dsa_practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/preetipatidar30/dsa_practice/tree/master/3863-power-grid-maintenance) |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/preetipatidar30/dsa_practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/preetipatidar30/dsa_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/2346-largest-3-same-digit-number-in-string) |
+| [3606-coupon-code-validator](https://github.com/preetipatidar30/dsa_practice/tree/master/3606-coupon-code-validator) |
 ## Bit Manipulation
 |  |
 | ------- |
