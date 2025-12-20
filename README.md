@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/preetipatidar30/dsa_practice/tree/master/0733-flood-fill) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0940-fruit-into-baskets](https://github.com/preetipatidar30/dsa_practice/tree/master/0940-fruit-into-baskets) |
+| [0944-delete-columns-to-make-sorted](https://github.com/preetipatidar30/dsa_practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0948-sort-an-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/preetipatidar30/dsa_practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/preetipatidar30/dsa_practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/preetipatidar30/dsa_practice/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0567-permutation-in-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/preetipatidar30/dsa_practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/preetipatidar30/dsa_practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1543-simplified-fractions](https://github.com/preetipatidar30/dsa_practice/tree/master/1543-simplified-fractions) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/preetipatidar30/dsa_practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
