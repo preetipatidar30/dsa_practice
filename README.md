@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0944-delete-columns-to-make-sorted](https://github.com/preetipatidar30/dsa_practice/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0948-sort-an-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/preetipatidar30/dsa_practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/preetipatidar30/dsa_practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/preetipatidar30/dsa_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0567-permutation-in-string) |
 | [0900-reordered-power-of-2](https://github.com/preetipatidar30/dsa_practice/tree/master/0900-reordered-power-of-2) |
 | [0940-fruit-into-baskets](https://github.com/preetipatidar30/dsa_practice/tree/master/0940-fruit-into-baskets) |
+| [0961-n-repeated-element-in-size-2n-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/preetipatidar30/dsa_practice/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/preetipatidar30/dsa_practice/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
