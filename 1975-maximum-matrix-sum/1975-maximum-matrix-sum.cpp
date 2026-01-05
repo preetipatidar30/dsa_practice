@@ -1,23 +1,21 @@
 class Solution {
 public:
     long long maxMatrixSum(vector<vector<int>>& matrix) {
-        long long sum = 0;
-        int negCount = 0;
-        int mini = INT_MAX;
-
-        for (auto &row : matrix) {
-            for (int val : row) {
-                if (val < 0) negCount++;
-                sum += abs(val);
-                mini = min(mini, abs(val));
-            }
+        int neg=0;
+        int maxi=INT_MAX;
+        long long sum=0;
+       for(int i=0;i<matrix.size();i++){
+        for(int j=0;j<matrix.size();j++){
+            if(matrix[i][j]<0){
+                neg++;
+                }
+            maxi=min(maxi,abs(matrix[i][j]));
+              sum +=abs(matrix[i][j]);
         }
-
-        // If odd negatives, one smallest must remain negative
-        if (negCount % 2 == 1) {
-            sum -= 2LL * mini;
-        }
-
-        return sum;
+       }
+       if(neg%2==1){
+        sum-=2LL *maxi;
+       }
+       return sum;
     }
 };
