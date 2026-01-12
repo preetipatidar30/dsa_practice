@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/preetipatidar30/dsa_practice/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1266-minimum-time-visiting-all-points](https://github.com/preetipatidar30/dsa_practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/preetipatidar30/dsa_practice/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/preetipatidar30/dsa_practice/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/preetipatidar30/dsa_practice/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/preetipatidar30/dsa_practice/tree/master/0867-new-21-game) |
 | [0900-reordered-power-of-2](https://github.com/preetipatidar30/dsa_practice/tree/master/0900-reordered-power-of-2) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/preetipatidar30/dsa_practice/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1266-minimum-time-visiting-all-points](https://github.com/preetipatidar30/dsa_practice/tree/master/1266-minimum-time-visiting-all-points) |
 | [1448-maximum-69-number](https://github.com/preetipatidar30/dsa_practice/tree/master/1448-maximum-69-number) |
 | [1543-simplified-fractions](https://github.com/preetipatidar30/dsa_practice/tree/master/1543-simplified-fractions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/preetipatidar30/dsa_practice/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -585,4 +587,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/preetipatidar30/dsa_practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+## Geometry
+|  |
+| ------- |
+| [1266-minimum-time-visiting-all-points](https://github.com/preetipatidar30/dsa_practice/tree/master/1266-minimum-time-visiting-all-points) |
 <!---LeetCode Topics End-->
