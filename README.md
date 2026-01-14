@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/preetipatidar30/dsa_practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/preetipatidar30/dsa_practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3454-separate-squares-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/preetipatidar30/dsa_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3531-count-covered-buildings](https://github.com/preetipatidar30/dsa_practice/tree/master/3531-count-covered-buildings) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0882-peak-index-in-a-mountain-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/preetipatidar30/dsa_practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/preetipatidar30/dsa_practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
+| [3454-separate-squares-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/preetipatidar30/dsa_practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Matrix
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/preetipatidar30/dsa_practice/tree/master/0493-reverse-pairs) |
+| [3454-separate-squares-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3454-separate-squares-ii) |
 | [3790-fruits-into-baskets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3790-fruits-into-baskets-ii) |
 | [3791-fruits-into-baskets-iii](https://github.com/preetipatidar30/dsa_practice/tree/master/3791-fruits-into-baskets-iii) |
 ## Simulation
@@ -591,4 +594,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1266-minimum-time-visiting-all-points](https://github.com/preetipatidar30/dsa_practice/tree/master/1266-minimum-time-visiting-all-points) |
+## Line Sweep
+|  |
+| ------- |
+| [3454-separate-squares-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3454-separate-squares-ii) |
 <!---LeetCode Topics End-->
