@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2625-increment-submatrices-by-one](https://github.com/preetipatidar30/dsa_practice/tree/master/2625-increment-submatrices-by-one) |
 | [2662-check-knight-tour-configuration](https://github.com/preetipatidar30/dsa_practice/tree/master/2662-check-knight-tour-configuration) |
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/preetipatidar30/dsa_practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/preetipatidar30/dsa_practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/preetipatidar30/dsa_practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3454-separate-squares-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3454-separate-squares-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0948-sort-an-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0948-sort-an-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/preetipatidar30/dsa_practice/tree/master/2054-two-best-non-overlapping-events) |
 | [2689-rearranging-fruits](https://github.com/preetipatidar30/dsa_practice/tree/master/2689-rearranging-fruits) |
+| [2943-maximize-area-of-square-hole-in-grid](https://github.com/preetipatidar30/dsa_practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3531-count-covered-buildings](https://github.com/preetipatidar30/dsa_practice/tree/master/3531-count-covered-buildings) |
 | [3606-coupon-code-validator](https://github.com/preetipatidar30/dsa_practice/tree/master/3606-coupon-code-validator) |
 | [3748-sort-matrix-by-diagonals](https://github.com/preetipatidar30/dsa_practice/tree/master/3748-sort-matrix-by-diagonals) |
