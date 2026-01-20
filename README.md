@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/preetipatidar30/dsa_practice/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/preetipatidar30/dsa_practice/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/preetipatidar30/dsa_practice/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/preetipatidar30/dsa_practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3454-separate-squares-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3454-separate-squares-ii) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/preetipatidar30/dsa_practice/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/preetipatidar30/dsa_practice/tree/master/0342-power-of-four) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/preetipatidar30/dsa_practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2529-range-product-queries-of-powers](https://github.com/preetipatidar30/dsa_practice/tree/master/2529-range-product-queries-of-powers) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/preetipatidar30/dsa_practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/preetipatidar30/dsa_practice/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Segment Tree
 |  |
