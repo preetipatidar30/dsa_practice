@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/0090-subsets-ii) |
 | [0118-pascals-triangle](https://github.com/preetipatidar30/dsa_practice/tree/master/0118-pascals-triangle) |
+| [0189-rotate-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/preetipatidar30/dsa_practice/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/preetipatidar30/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/preetipatidar30/dsa_practice/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/preetipatidar30/dsa_practice/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/preetipatidar30/dsa_practice/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/preetipatidar30/dsa_practice/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/preetipatidar30/dsa_practice/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/preetipatidar30/dsa_practice/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/preetipatidar30/dsa_practice/tree/master/0342-power-of-four) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/preetipatidar30/dsa_practice/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/preetipatidar30/dsa_practice/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/preetipatidar30/dsa_practice/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/preetipatidar30/dsa_practice/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/preetipatidar30/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0443-string-compression](https://github.com/preetipatidar30/dsa_practice/tree/master/0443-string-compression) |
