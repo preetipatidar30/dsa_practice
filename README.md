@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/preetipatidar30/dsa_practice/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3606-coupon-code-validator](https://github.com/preetipatidar30/dsa_practice/tree/master/3606-coupon-code-validator) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/preetipatidar30/dsa_practice/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
+| [3714-longest-balanced-substring-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3714-longest-balanced-substring-ii) |
 | [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/preetipatidar30/dsa_practice/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 | [3863-power-grid-maintenance](https://github.com/preetipatidar30/dsa_practice/tree/master/3863-power-grid-maintenance) |
 ## Binary Search
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2229-maximum-fruits-harvested-after-at-most-k-steps](https://github.com/preetipatidar30/dsa_practice/tree/master/2229-maximum-fruits-harvested-after-at-most-k-steps) |
 | [2529-range-product-queries-of-powers](https://github.com/preetipatidar30/dsa_practice/tree/master/2529-range-product-queries-of-powers) |
 | [2625-increment-submatrices-by-one](https://github.com/preetipatidar30/dsa_practice/tree/master/2625-increment-submatrices-by-one) |
+| [3714-longest-balanced-substring-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3714-longest-balanced-substring-ii) |
 ## String
 |  |
 | ------- |
@@ -297,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/preetipatidar30/dsa_practice/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2346-largest-3-same-digit-number-in-string](https://github.com/preetipatidar30/dsa_practice/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3606-coupon-code-validator](https://github.com/preetipatidar30/dsa_practice/tree/master/3606-coupon-code-validator) |
+| [3714-longest-balanced-substring-ii](https://github.com/preetipatidar30/dsa_practice/tree/master/3714-longest-balanced-substring-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
