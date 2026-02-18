@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/preetipatidar30/dsa_practice/tree/master/0231-power-of-two) |
 | [0287-find-the-duplicate-number](https://github.com/preetipatidar30/dsa_practice/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/preetipatidar30/dsa_practice/tree/master/0342-power-of-four) |
+| [0693-binary-number-with-alternating-bits](https://github.com/preetipatidar30/dsa_practice/tree/master/0693-binary-number-with-alternating-bits) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/preetipatidar30/dsa_practice/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
 | [2529-range-product-queries-of-powers](https://github.com/preetipatidar30/dsa_practice/tree/master/2529-range-product-queries-of-powers) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/preetipatidar30/dsa_practice/tree/master/3314-construct-the-minimum-bitwise-array-i) |
